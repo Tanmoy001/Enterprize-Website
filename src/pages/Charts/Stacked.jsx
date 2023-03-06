@@ -1,6 +1,6 @@
 import React from 'react'
 
-const LineChart = () => {
+const Stacked = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const LineChart = () => {
   )
 }
 
-export default LineChart
+export default Stacked
